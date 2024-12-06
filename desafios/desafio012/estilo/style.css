@@ -67,8 +67,8 @@ section.imagem1 {
 }
 
 .imagem1 > p {
+    display: inline-block;
     background-color: rgba(0, 0, 0, 0.363);
-    width: 400px;
     margin: 0px;
 }
 
@@ -83,7 +83,7 @@ section.imagem2 {
 
 .imagem2 > p {
     background-color: rgba(0, 0, 0, 0.363);
-    width: 400px;
+    display: inline-block;
     margin: 0px;
 }
 
